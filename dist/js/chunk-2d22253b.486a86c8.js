@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22253b"],{cdae:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("van-icon",{staticClass:"icon",attrs:{name:n.icon,badge:n.badge},on:{click:function(e){return n.$emit("click")}}})},a=[],i={name:"Icon",props:{icon:{type:String,default:""},badge:{type:String,default:""}}},o=i,l=t("2877"),r=Object(l["a"])(o,c,a,!1,null,null,null);e["default"]=r.exports}}]);
-//# sourceMappingURL=chunk-2d22253b.486a86c8.js.map
